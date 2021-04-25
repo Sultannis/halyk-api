@@ -1,0 +1,22 @@
+{
+  "name": "halyk-api",
+  "version": "1.0.0",
+  "description": "api for halyk bank platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sultannis/halyk-api.git"
+  },
+  "author": "Sultannis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sultannis/halyk-api/issues"
+  },
+  "homepage": "https://github.com/Sultannis/halyk-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
